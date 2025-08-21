@@ -36,7 +36,7 @@ A comprehensive, mobile-first lottery platform for Dubai vacation prizes, target
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/yashkamalchaturvedi/dreamtrip-lottery>
    cd dreamtrip-lottery
    ```
 
@@ -139,7 +139,7 @@ This project is proprietary software for DreamTrip Dubai Lottery platform.
 
 ## 🔗 Live Demo
 
-Visit the live platform: [DreamTrip Dubai Lottery](https://your-netlify-url.netlify.app)
+Visit the live platform: [DreamTrip Dubai Lottery](https://dream-trip-lottery.netlify.app/)
 
 ---
 
